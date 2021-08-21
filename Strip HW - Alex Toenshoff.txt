@@ -1,0 +1,60 @@
+
+
+# Stripe
+
+## Overview and Origin
+
+* Name of company - Stripe
+
+* When was the company incorporated? 2009
+
+* Who are the founders of the company?  John and Patrick Collison
+
+* How did the idea for the company (or project) come about?  Realized that there was a need for an online payment system and that the current solutions to the problem were expensive, and slow.
+
+* How is the company funded? How much funding have they received? They are funded by a up-front fee that online vendors pay.  Stripe has had 10 rounds of funding, which has brought in $2.2B from 39 different funding.  It was originally funded by a Sequoia Capital, a VC fund, but also received angel investments from Peter Thiel and Elon Musk, two of the founders of Pay-Pal, and were seed investors.
+
+
+## Business Activities:
+
+* What specific financial problem is the company or project trying to solve?  The processing of online payments.
+
+* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+What solution does this company offer that their competitors do not or cannot offer? What is the unfair advantage they utilize?
+
+Their customers are online vendors.  They charge 2.9% of total transaction value, and $0.30 for each transaction.  The market size of the problem they are trying to solve is as big as all online transactions, which continue to grow. Their current customers include Amazon, Google, Zoom, Lyft, and Google.  One of their advantages seem to be the clearly defined payment scheme, which while also cheaper than other services like PayPal, do not include any surprises.  Currently 14% of all transactions occur online, and Stripe is processing.  Given that they are private, there are only estimates on how much Stripe makes and how many payments they process, but an estimate at the end of 2019 for 2020 expected Stripe to process over $350B in 2020.  Given the online nature of the Pandemic, this number was likely succeeded.
+
+
+* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.). Stripe is coded in python, and acts as a middle man for merchants by securing credit card payments so individual merchants do not have to.  Because Stripe is coded in python, it is developer friendly, which has allowed for a huge number of customizable APIs to have been built on top of, and integrated into the app, helping merchants visualize payment (and eventually inventory) analytics.
+
+
+## Landscape:
+
+* What domain of the financial industry is the company in? payment processing
+
+* What have been the major trends and innovations of this domain over the last 5-10 years?  They have been increasing in relevancy as more transactions are occurring online.
+
+* What are the other major companies in this domain? PayPal, Square, Adyen
+
+
+## Results
+
+* What has been the business impact of this company so far? It has been growing massively, and is now processing hundreds of billions of dollars in payments a year.  It saw large success rate due to covid restrictions. It has made online transactions cheaper, and therefore improved the online economy. 
+
+* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics? Amount of revenue, and volume of payments processed.  Stripes data is private, but they are estimated to be in the top 5.
+
+* How is your company performing relative to competitors in the same domain? Stripes data is private, but they are estimated to be in the top 5.
+
+
+
+
+## Recommendations
+
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)  I would honestly say just market better, and try to be more user friendly, like PayPal.  I chose to do this assignment because I had heard of stripe, but literally had no idea what they did… thought it was more complicated than it is… but most people have no idea they exist, and 2.9% is very cheap compared to some PayPal payments I have personally encountered.
+
+* Why do you think that offering this product or service would benefit the company?  They can shift to take over some of PayPal’s market share, and generate more revenue/capture more market share.
+
+* What technologies would this additional product or service utilize?  Same tech that is currently used.  Cards processing to bank account.
+
+* Why are these technologies appropriate for your solution?  Because they would not need any new technology.
+
